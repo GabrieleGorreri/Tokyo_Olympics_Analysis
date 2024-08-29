@@ -26,7 +26,7 @@ Tokyo EDA
 
 ##  🔧 Tasks
 
-To see what insights are we able to take out from different datasets.
+Find out some insights from different datasets.
 
 ##  💾 Resources
 [Kaggle Repository](https://www.kaggle.com/datasets/arjunprasadsarkhel/2021-olympics-in-tokyo) 
